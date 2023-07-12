@@ -1,5 +1,5 @@
 {
-  "name": "learning-react",
+  "name": "todo-list",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -19,5 +19,17 @@
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^3.0.0",
     "vite": "^4.0.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OjasAgrawal-212/todo-list-react.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OjasAgrawal-212/todo-list-react/issues"
+  },
+  "homepage": "https://github.com/OjasAgrawal-212/todo-list-react#readme"
 }
